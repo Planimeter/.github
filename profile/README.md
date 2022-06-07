@@ -1,4 +1,9 @@
-## Hi there 👋
+<!-- ## Hi there 👋 -->
+Game engine, framework, and library technology.  
+Creators of [Planimeter Game Engine 2D][1] and [Planimeter Game Framework][2].
+
+[1]: https://github.com/Planimeter/game-engine-3d
+[2]: https://github.com/Planimeter/game-framework
 
 <!--
 
